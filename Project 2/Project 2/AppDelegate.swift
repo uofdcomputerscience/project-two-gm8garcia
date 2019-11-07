@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Project 2
 //
-//  Created by Russell Mirabelli on 10/26/19.
-//  Copyright © 2019 Russell Mirabelli. All rights reserved.
+//  Created by Gabriela Garcia on 11/4/19.
+//  Copyright © 2019 Gabriela Garcia. All rights reserved.
 //
 
 import UIKit
